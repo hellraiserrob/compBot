@@ -1,0 +1,25 @@
+{
+  "name": "compBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellraiserrob/compBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellraiserrob/compBot/issues"
+  },
+  "homepage": "https://github.com/hellraiserrob/compBot#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "twit": "^2.2.9"
+  }
+}
